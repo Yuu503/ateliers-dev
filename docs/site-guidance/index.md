@@ -28,8 +28,8 @@ description: ateliers.dev のコンテンツ「サイト案内」のページで
 
 * サイトURL: [https://ateliers.dev/](https://ateliers.dev/)
 * 独自ドメイン: ateliers.dev
-* GitHub ユーザー名: [yuu-git](https://github.com/yuu-git)
-* GitHub リポジトリ: [ateliers-dev](https://github.com/yuu-git/ateliers-dev)
+* GitHub ユーザー名: [yuu503](https://github.com/yuu503)
+* GitHub リポジトリ: [ateliers-dev](https://github.com/yuu503/ateliers-dev)
 * 目的:WEBサイト「ateliers.dev」は、個人的なテクニカルポートフォリオサイトとして、プロジェクトの展示、技術的なメモ、ガイドラインなどの情報を共有する目的で構築されています。
 * 掲げる信条: 『より良い未来のために。』
 

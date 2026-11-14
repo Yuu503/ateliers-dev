@@ -68,7 +68,7 @@ Facebook が開発した React ベースのフレームワークで、Markdown �
 ### Q. このサイトのソースコードは公開されていますか？
 
 はい、このサイトのソースコードは GitHub で公開されています。  
-私の [GitHub リポジトリ](https://github.com/yuu-git/ateliers-dev) を参照してください。  
+私の [GitHub リポジトリ](https://github.com/yuu503/ateliers-dev) を参照してください。  
 ソースコードの参照やマークダウンの確認など、自由にご利用ください。
 
 ---

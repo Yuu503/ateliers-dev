@@ -710,8 +710,8 @@ Used in:
 **Last Updated**: 2025/11/23
 **Docusaurus Version**: 3.9.2
 **Node.js Version**: 20.7.0
-**Repository Owner**: yuu-git
-**GitHub**: https://github.com/yuu-git/ateliers-dev
+**Repository Owner**: yuu503
+**GitHub**: https://github.com/yuu503/ateliers-dev
 
 ---
 

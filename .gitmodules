@@ -1,6 +1,6 @@
 [submodule "docs/project-knowledge/ateliers-ai-mcp"]
 	path = docs/project-knowledge/ateliers-ai-mcp
-	url = https://github.com/yuu-git/ateliers-ai-mcp-projectbase.git
+	url = https://github.com/yuu503/ateliers-ai-mcp-projectbase.git
 [submodule "docs/ateliers-knowledge"]
 	path = docs/ateliers-knowledge
-	url = https://github.com/yuu-git/ateliers-knowledge.git
+	url = https://github.com/yuu503/ateliers-knowledge.git

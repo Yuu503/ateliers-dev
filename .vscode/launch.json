@@ -10,7 +10,7 @@
             "console": "integratedTerminal",
             "skipFiles": ["<node_internals>/**"],
             "env": {
-                "GIT_USER": "yuu-git",
+                "GIT_USER": "yuu503",
                 "USE_SSH": "true"
             }
         }

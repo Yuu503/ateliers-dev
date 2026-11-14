@@ -20,7 +20,7 @@ const config: Config = {
 
   // GitHub Pagesのデプロイ設定
   // GitHub Pagesを使用していない場合、これらは不要です
-  organizationName: 'yuu-git', // 通常はGitHubの組織名またはユーザー名です
+  organizationName: 'yuu503', // 通常はGitHubの組織名またはユーザー名です
   projectName: 'ateliers-dev', // 通常はリポジトリ名です
 
   onBrokenLinks: 'warn',
@@ -42,7 +42,7 @@ const config: Config = {
         docs: {
           sidebarPath: './sidebars.ts',
           editUrl:
-            'https://github.com/yuu-git/ateliers-dev/edit/master/',
+            'https://github.com/yuu503/ateliers-dev/edit/master/',
             showLastUpdateAuthor: false,
             showLastUpdateTime: false,
           remarkPlugins: [],
@@ -53,7 +53,7 @@ const config: Config = {
         blog: {
           showReadingTime: true,
           editUrl:
-            'https://github.com/yuu-git/ateliers-dev/edit/master/',        
+            'https://github.com/yuu503/ateliers-dev/edit/master/',        
         },
         theme: {
           customCss: './src/css/custom.css',
@@ -107,12 +107,12 @@ const config: Config = {
           position: 'right',
           items:[
             {
-              href: 'https://github.com/yuu-git/ateliers-dev',
+              href: 'https://github.com/yuu503/ateliers-dev',
               label: 'WebSite Repository',
             },
             {
-              href: 'https://github.com/yuu-git',
-              label: '管理者トップ(yuu-git)',
+              href: 'https://github.com/yuu503',
+              label: '管理者トップ(yuu503)',
             },
           ]
         },
@@ -192,7 +192,7 @@ const config: Config = {
             },*/
             {
               label: 'GitHub',
-              href: 'https://github.com/yuu-git',
+              href: 'https://github.com/yuu503',
             },
             {
               label: 'Qiita',
@@ -201,7 +201,7 @@ const config: Config = {
           ],
         },
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} ateliers.dev - Yuu Konno - GitHub: yuu-git`,
+      copyright: `Copyright © ${new Date().getFullYear()} ateliers.dev - Yuu Konno - GitHub: yuu503`,
     },
     prism: {
       theme: prismThemes.github,

@@ -62,7 +62,7 @@ LinkedIn の利用も検討中です。
 
 | サービス | リンク | 備考 |
 | --- | --- | --- |
-| GitHub | [yuu-git](http://github.com/yuu-git) | 真面目に活動してるのは 2024/04～ です。 |
+| GitHub | [yuu503](http://github.com/yuu503) | 真面目に活動してるのは 2024/04～ です。 |
 | はてなブックマーク | [yuu-dev](https://b.hatena.ne.jp/yuu-dev/) | IT系情報を集めてます。 |
 | Qiita | [yuu-dev](https://qiita.com/yuu-dev) | 記事作成は休止中です。 |
 | Zenn | [yuu_dev](https://zenn.dev/yuu_dev) | 情報収集用。記事はありません。 |

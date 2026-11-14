@@ -379,7 +379,7 @@ jobs:
 
 | リンク | 説明 |
 | --- | --- |
-| [Ateliers.Core - ci.yml](https://github.com/yuu-git/ateliers-core/blob/master/.github/workflows/ci.yml) | GitHub Actions ワークフローの例（Ateliers.Core リポジトリ） |
+| [Ateliers.Core - ci.yml](https://github.com/yuu503/ateliers-core/blob/master/.github/workflows/ci.yml) | GitHub Actions ワークフローの例（Ateliers.Core リポジトリ） |
 
 ---
 
